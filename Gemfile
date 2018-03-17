@@ -14,7 +14,6 @@ gem 'rails_config'
 gem 'dotenv-rails'
 
 group :development do
-  gem 'sqlite3'
   gem 'i18n_generators'
   gem 'test-unit'
 end
